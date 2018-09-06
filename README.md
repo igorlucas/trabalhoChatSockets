@@ -9,7 +9,7 @@ O aluno deverá implementar uma aplicação de Chat através da utilização de 
 
 Essa aplicação deverá possuir as seguintes funcionalidades:
 
-**I- Cadastro das informações do usuário (nome, email, idade);
+**I- Cadastro das informações do usuário (nome, email, idade);**
 
 **II- Funcionalidades relacionadas a salas de bate-papo:**
 
