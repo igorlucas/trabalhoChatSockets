@@ -5,3 +5,10 @@ C:\Users\igorl\source\repos\ChatApp\ServerDemo\obj\Debug\ServerDemo.exe
 C:\Users\igorl\source\repos\ChatApp\ServerDemo\obj\Debug\ServerDemo.pdb
 C:\Users\igorl\source\repos\ChatApp\ServerDemo\bin\Debug\ServerDemo.pdb
 C:\Users\igorl\source\repos\ChatApp\ServerDemo\obj\Debug\ServerDemo.csprojAssemblyReference.cache
+C:\Users\igorl\source\repos\ChatApp\trabalhoChatSockets\ServerDemo\bin\Debug\ServerDemo.exe.config
+C:\Users\igorl\source\repos\ChatApp\trabalhoChatSockets\ServerDemo\bin\Debug\ServerDemo.exe
+C:\Users\igorl\source\repos\ChatApp\trabalhoChatSockets\ServerDemo\bin\Debug\ServerDemo.pdb
+C:\Users\igorl\source\repos\ChatApp\trabalhoChatSockets\ServerDemo\obj\Debug\ServerDemo.csprojAssemblyReference.cache
+C:\Users\igorl\source\repos\ChatApp\trabalhoChatSockets\ServerDemo\obj\Debug\ServerDemo.csproj.CoreCompileInputs.cache
+C:\Users\igorl\source\repos\ChatApp\trabalhoChatSockets\ServerDemo\obj\Debug\ServerDemo.exe
+C:\Users\igorl\source\repos\ChatApp\trabalhoChatSockets\ServerDemo\obj\Debug\ServerDemo.pdb
