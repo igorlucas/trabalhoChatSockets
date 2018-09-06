@@ -9,15 +9,15 @@ O aluno deverá implementar uma aplicação de Chat através da utilização de 
 
 Essa aplicação deverá possuir as seguintes funcionalidades:
 
-1. Cadastro das informações do usuário (nome, email, idade);
+I Cadastro das informações do usuário (nome, email, idade);
 
-2. Funcionalidades relacionadas a salas de bate-papo:
+II Funcionalidades relacionadas a salas de bate-papo:
 
-  a. Cadastro/Busca/Atualização de salas de bate-papo;
+  1. Cadastro/Busca/Atualização de salas de bate-papo;
 
-  b. Solicitação de ingresso ou remoção de um usuário da sala;
+  2. Solicitação de ingresso ou remoção de um usuário da sala;
 
-  c. Notificação de todos os usuários presentes na sala quando uma    nova mensagem é enviada.
+  3. Notificação de todos os usuários presentes na sala quando uma    nova mensagem é enviada.
 
 **DETALHES DA ENTREGA**
 
