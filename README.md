@@ -5,7 +5,7 @@
 
 **ESPECIFICAÇÃO DO TRABALHO**
 
-O aluno deverá implementar uma aplicação de Chat através da utilização de sockets​.
+Implementar uma aplicação de Chat através da utilização de sockets.
 
 Essa aplicação deverá possuir as seguintes funcionalidades:
 
