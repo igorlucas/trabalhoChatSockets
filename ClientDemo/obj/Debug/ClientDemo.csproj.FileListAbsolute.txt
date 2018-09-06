@@ -1,0 +1,6 @@
+C:\Users\igorl\source\repos\ChatApp\ClientDemo\bin\Debug\ClientDemo.exe.config
+C:\Users\igorl\source\repos\ChatApp\ClientDemo\bin\Debug\ClientDemo.exe
+C:\Users\igorl\source\repos\ChatApp\ClientDemo\bin\Debug\ClientDemo.pdb
+C:\Users\igorl\source\repos\ChatApp\ClientDemo\obj\Debug\ClientDemo.csproj.CoreCompileInputs.cache
+C:\Users\igorl\source\repos\ChatApp\ClientDemo\obj\Debug\ClientDemo.exe
+C:\Users\igorl\source\repos\ChatApp\ClientDemo\obj\Debug\ClientDemo.pdb
